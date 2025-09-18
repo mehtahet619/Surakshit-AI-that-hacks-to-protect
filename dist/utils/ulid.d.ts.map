@@ -1,0 +1,1 @@
+{"version":3,"file":"ulid.d.ts","sourceRoot":"","sources":["../../src/utils/ulid.ts"],"names":[],"mappings":"AAEA,qBAAa,aAAa;IACxB,MAAM,CAAC,QAAQ,IAAI,MAAM;IAIzB,MAAM,CAAC,kBAAkB,CAAC,MAAM,EAAE,MAAM,GAAG,MAAM;IAIjD,MAAM,CAAC,OAAO,CAAC,EAAE,EAAE,MAAM,GAAG,OAAO;IAMnC,MAAM,CAAC,gBAAgB,CAAC,EAAE,EAAE,MAAM,GAAG,IAAI,GAAG,IAAI;CAcjD;AAED,eAAe,aAAa,CAAC"}

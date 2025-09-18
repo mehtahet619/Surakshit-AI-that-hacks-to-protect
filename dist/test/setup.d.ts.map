@@ -1,0 +1,1 @@
+{"version":3,"file":"setup.d.ts","sourceRoot":"","sources":["../../src/test/setup.ts"],"names":[],"mappings":"AAyDA,OAAO,CAAC,MAAM,CAAC;IACb,IAAI,SAAS,EAAE;QACb,iBAAiB,EAAE,MAAM,GAAG,CAAC;QAC7B,iBAAiB,EAAE,MAAM,GAAG,CAAC;KAC9B,CAAC;CACH"}

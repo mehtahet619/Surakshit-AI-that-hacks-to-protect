@@ -1,0 +1,2 @@
+{"environment":"development","host":"0.0.0.0","level":"info","message":"Surakshit AI Agent started on 0.0.0.0:3000","port":3000,"service":"surakshit-ai-agent","timestamp":"2025-09-17T19:45:15.845Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"surakshit-ai-agent","timestamp":"2025-09-17T19:47:05.150Z"}
