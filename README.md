@@ -136,4 +136,4 @@ See `.env.example` for all available configuration options.
 
 ## License
 
-MIT License - see LICENSE file for details.
+MIT License[LICENSE](LICENSE) - see LICENSE file for details.
